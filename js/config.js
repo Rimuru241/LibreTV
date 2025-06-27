@@ -110,6 +110,14 @@ const API_SITES = {
         api: 'https://ikunzyapi.com/api.php/provide/vod',
         name: 'iKun资源'
     },
+    mtzz: {
+        api: 'https://caiji.maotaizy.cc/api.php/provide/vod',
+        name: '茅台资源'
+    },
+    jmzz: {
+        api: 'https://api.jmzy.com/api.php/provide/vod',
+        name: '金马资源'
+    },
     yutu: {
         api: 'https://apiyutu.com/api.php/provide/vod',
         name: '玉兔资源'
