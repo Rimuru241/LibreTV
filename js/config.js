@@ -110,6 +110,22 @@ const API_SITES = {
         api: 'https://ikunzyapi.com/api.php/provide/vod',
         name: 'iKun资源'
     },
+    yutu: {
+        api: 'https://apiyutu.com/api.php/provide/vod',
+        name: '玉兔资源'
+    },
+    kuaibo: {
+        api: 'https://gayapi.com/api.php/provide/vod',
+        name: '快播资源'
+    },
+    xingba: {
+        api: 'https://xingba111.com/api.php/provide/vod',
+        name: '杏吧资源'
+    },
+    huangse: {
+        api: 'https://hsckzy888.com/api.php/provide/vod',
+        name: '黄色仓库'
+    },
     testSource: {
         api: 'https://www.example.com/api.php/provide/vod',
         name: '空内容测试源',
