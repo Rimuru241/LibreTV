@@ -120,19 +120,23 @@ const API_SITES = {
     },
     yutu: {
         api: 'https://apiyutu.com/api.php/provide/vod',
-        name: '玉兔资源'
-    },
-    kuaibo: {
-        api: 'https://gayapi.com/api.php/provide/vod',
-        name: '快播资源'
+        name: '玉兔资源',
+        adult: true
     },
     xingba: {
         api: 'https://xingba111.com/api.php/provide/vod',
-        name: '杏吧资源'
+        name: '杏吧资源',
+        adult: true
     },
     huangse: {
         api: 'https://hsckzy888.com/api.php/provide/vod',
-        name: '黄色仓库'
+        name: '黄色仓库',
+        adult: true
+    },
+    kuaibo: {
+        api: 'https://gayapi.com/api.php/provide/vod',
+        name: '快播资源',
+        adult: true
     },
     testSource: {
         api: 'https://www.example.com/api.php/provide/vod',
