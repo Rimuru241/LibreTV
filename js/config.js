@@ -114,6 +114,34 @@ const API_SITES = {
         api: 'https://cj.lziapi.com/api.php/provide/vod/',
         name: '量子资源站'
     },
+    mtzz: {
+        api: 'https://caiji.maotaizy.cc/api.php/provide/vod',
+        name: '茅台资源'
+    },
+    jmzz: {
+        api: 'https://api.jmzy.com/api.php/provide/vod',
+        name: '金马资源'
+    },
+    yutu: {
+        api: 'https://apiyutu.com/api.php/provide/vod',
+        name: '玉兔资源',
+        adult: true
+    },
+    xingba: {
+        api: 'https://xingba111.com/api.php/provide/vod',
+        name: '杏吧资源',
+        adult: true
+    },
+    huangse: {
+        api: 'https://hsckzy888.com/api.php/provide/vod',
+        name: '黄色仓库',
+        adult: true
+    },
+    kuaibo: {
+        api: 'https://gayapi.com/api.php/provide/vod',
+        name: '快播资源',
+        adult: true
+    },
     testSource: {
         api: 'https://www.example.com/api.php/provide/vod',
         name: '空内容测试源',
